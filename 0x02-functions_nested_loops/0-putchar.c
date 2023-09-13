@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<main.h>
 /**
  * the main function prints putchart
  * and return 0
