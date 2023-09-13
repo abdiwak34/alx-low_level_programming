@@ -1,7 +1,8 @@
-#include<main.h>
+#include "main.h"
+
 /**
- * the main function prints putchart
- * and return 0
+ * main -  prints _putchar, followed by a new line
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -15,5 +16,5 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 
-	return 0o;
+	return (0);
 }
