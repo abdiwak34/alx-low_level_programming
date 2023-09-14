@@ -7,6 +7,6 @@ void print_alphabet(void)
 {
 	for(char alpha = 'a'; alpha <= z; alpha++)
 	{
-		print_alphabet(alpha\n);
+		_putchar(alpha);
 	}
 }
