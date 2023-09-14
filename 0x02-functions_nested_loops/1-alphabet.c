@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include "main.h"
 /**
  * define function
  * return 0
@@ -9,4 +9,5 @@ void print_alphabet(void)
 	{
 		_putchar(alpha);
 	}
+	_putchar(\n);
 }
