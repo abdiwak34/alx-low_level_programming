@@ -1,8 +1,12 @@
 #include "main.h"
+
 /**
- * _puts - prints the string
- * @str: argument to store string variable
+ * _puts - prints a string followed by a new line..
+ *
+ *@str: the string to print.
+ *
  */
+
 void _puts(char *str)
 {
 	int i;
