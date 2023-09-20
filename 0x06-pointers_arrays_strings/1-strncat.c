@@ -6,6 +6,7 @@
  * @dest: arg 1
  * @src: arg 2
  * @n: bytes
+ *Return: dest
  */
 
 char *_strncat(char *dest, char *src, int n)
