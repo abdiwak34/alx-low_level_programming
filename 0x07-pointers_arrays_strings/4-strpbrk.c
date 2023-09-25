@@ -10,5 +10,5 @@
 
 char *_strpbrk(char *s, char *accept)
 {
-	strpbrk(const char *str, const char *charset);
+	strpbrk(s, accept);
 }
