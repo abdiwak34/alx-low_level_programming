@@ -2,7 +2,7 @@
 /**
  * _memset - fills the memory with b
  * @s: pointer to save the address of the char
- * @b: array to be filled 
+ * @b: array to be filled
  * @n: size of the array
  * Return: the pointer s
  */
