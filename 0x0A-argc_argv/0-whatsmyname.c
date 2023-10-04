@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * main - print name
- * @argc: num arguments
- * @argv: arr arguments
+ * main - prints the name
+ * @argc: num arg
+ * @argv: arr arg
  *
  * Return: Always 0 (Success)
  */
